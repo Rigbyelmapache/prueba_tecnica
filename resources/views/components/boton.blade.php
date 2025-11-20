@@ -3,8 +3,6 @@
     {{ $slot }} 
 </button>
  
-    <!-- slot = laravel react = reactnode -->
-     <!-- etiqueta attributes para clases dinamicas -->
+   
 
-    <!-- Live as if you were to die tomorrow. Learn as if you were to live forever. - Mahatma Gandhi -->
 </div>

@@ -11,7 +11,7 @@
  
     <header class="p-4">
         <div class="container mx-auto">
-            <h1 class="text-2xl text-center font-bold">IBCORP</h1>
+            <h1 class="text-2xl text-center font-bold">prueba tecnica</h1>
         </div>
     </header>
     <nav class="bg-blue-500 p-2">
